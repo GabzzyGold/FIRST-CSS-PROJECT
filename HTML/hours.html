@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="Author" content="Rady G" />
+    <meta name="description" content="The offical page for Joktolak" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JTA Hours</title>
+    <link rel="stylesheet" href="../CSS/style.css">
+    <link
+      rel="shortcut icon"
+      href="../FAVICON/download (1).ico"
+      type="image/x-icon"
+    />
+  </head>
+  <body>
+    <header class="header">
+      <h1 class="header__h1">Joktolak Mini Supermartket</h1>
+      <nav class="header__nav">
+        <ul class="header__ul">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="index.html#main">Menu</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="about.html">About</a></li>
+        </ul>
+      </nav>
+    </header>
+    <section class="hero">
+      <h2 class="hero__h2">Welcome</h2>
+      <figure>
+        <img
+          src="../IMAGES/resized-IMG-20261004-WA0035.jpg"
+          alt="Joktolak store"
+          title="Come and buy from Joktolak"
+          width="1000"
+          height="667"
+        />
+        <figcaption class="offscreen">Joktolak Store</figcaption>
+      </figure>
+    </section>
+    <main class="main">
+      <article class="main__article">
+        <h2>Hours</h2>
+        <p>We are open 7 days a week!</p>
+        <dl>
+          <dt>Sunday-Thursday</dt>
+          <dd>11am-9pm</dd>
+          <dt>Friday-Saturday</dt>
+          <dd>11am-11pm</dd>
+        </dl>
+      </article>
+    </main>
+    <footer class="footer">
+      <p>
+        <span class="nowrap">Copyright &copy; <time id="year"></time></span>
+        <span class="nowrap">Little Taco Shop</span>
+      </p>
+    </footer>
+    <script defer>
+      const year = document.getElementById("year");
+      const thisYear = new Date().getFullYear();
+      year.setAttribute("datatime" , thisYear)
+      year.textContent = thisYear
+    </script>
+  </body>
+</html>
