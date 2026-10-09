@@ -6,13 +6,6 @@ A responsive, multi-page website built with **semantic HTML5** and **modern CSS*
 
 ---
 
-## 📸 Preview
-
-<!-- Add a screenshot of your site here, for example: -->
-<!-- ![Home page preview](IMAGES/preview.png) -->
-
----
-
 ## ✨ Features
 
 - **4 linked pages**: Home (menu), Hours, Contact and About
@@ -72,9 +65,11 @@ CSS FINAL PROJECT/
 No build tools or installs are needed.
 
 1. **Clone or download** this repository:
+
    ```bash
    git clone <your-repo-url>
    ```
+
 2. **Open** `HTML/index.html` in any modern browser.
    - Optional: use the **Live Server** extension in VS Code for auto-reload.
 3. Use the navigation bar to move between pages.
@@ -118,7 +113,7 @@ No build tools or installs are needed.
 **Gabzzy**
 First CSS project, October 2026
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@GabzzyGold](https://github.com/GabzzyGold)
 
 ---
 
