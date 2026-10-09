@@ -4,6 +4,8 @@ A responsive, multi-page website built with **semantic HTML5** and **modern CSS*
 
 > 🎓 **This is my first CSS project.** I built it to practise everything I have learned so far: layout, typography, colour systems, responsive design and accessibility. It is not perfect, but it taught me a lot.
 
+🔗 **Live demo:** [css-project-1ejxo3lgj-gabzzygolds-projects.vercel.app](https://css-project-1ejxo3lgj-gabzzygolds-projects.vercel.app)
+
 ---
 
 ## ✨ Features
